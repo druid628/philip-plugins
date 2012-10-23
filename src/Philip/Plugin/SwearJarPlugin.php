@@ -31,7 +31,7 @@ class SwearJarPlugin extends BasePlugin
         $bot = $this->bot;
         $config = $bot->getConfig();
         $swear_mode = "normal";
-        if(isset($bot['swear_mode']) && $bot['swear_mode'] == "demolition_man")
+        if(isset($config['swear_mode']) && $config['swear_mode'] == "demolition_man")
         {
             $swear_mode = "demolition_man";
         }
