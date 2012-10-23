@@ -1,5 +1,5 @@
 {
-    "name": "epochblue/philip-plugins",
+    "name": "druid628/philip-plugins",
     "description": "Plugins for the Philip IRC bot",
     "keywords": ["irc", "bot", "dsl", "plugin", "plugins"],
     "homepage": "https://github.com/epochblue/philip-plugins",
